@@ -1,5 +1,5 @@
-# Programa Apolice
+# Programação I
 
-Trabalho desenvolvido para a disciplina de Programação I do 3º semestre do curso de Ciência da Computação da UFFS.
+Repositório criado com a finalidade de armazenar os trabalhos desenvolvidos na disciplina de Programação I do 3º semestre do curso de Ciência da Computação da UFFS.
 
-Aprendendo a linguagem de programação Java. 
+Linguagem de programção utilizada: Java.
