@@ -6,7 +6,7 @@ Linguagem de programção utilizada: Java.
 
 Ano: 2022.
 
-Exercício 01 - Introdução ao Java
-Exercício 02 - Guessing Game
-Exercício 03 - Apolice
-Exercício 04 - Acampamento | Produto 
+Exercício 01 - Introdução ao Java <br>
+Exercício 02 - Guessing Game <br>
+Exercício 03 - Apolice <br>
+Exercício 04 - Acampamento | Produto <br>
