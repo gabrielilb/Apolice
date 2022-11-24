@@ -5,3 +5,8 @@ Repositório criado com a finalidade de armazenar os trabalhos desenvolvidos na 
 Linguagem de programção utilizada: Java.
 
 Ano: 2022.
+
+Exercício 01 - Introdução ao Java
+Exercício 02 - Guessing Game
+Exercício 03 - Apolice
+Exercício 04 - Acampamento | Produto 
